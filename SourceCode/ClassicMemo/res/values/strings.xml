@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Classic Note</string>
+    <string name="title">"Title : "</string>
+    <string name="date">"Date : "</string>
+    <string name="note">"Note : "</string>
+    <string name="save">Save</string>
+    <string name="title_activity_notes_list">Classic Note</string>
+    <string name="addNote">Add Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="hint_note_content">note content</string>
+    <string name="hint_title">title</string>
+
+</resources>

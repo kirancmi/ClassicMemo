@@ -1,0 +1,32 @@
+This application is similar to note or memo application with a rich classic old paper look & feel, has following features:
+
+Main List screen : It displays all the individual notes that are present in the application in the form of a list, in the order of most recently added note to be displayed as top most list.
+
+1. Add Note : (Press Menu or Action Bar ) Can add a new note into the list
+2. Delete : (Long press & hold on list item) Will popup delete option, on choosing will delete the list permanently
+3. Tap : (Tap on the list item) Will lead to a note view screen
+4. Scroll : (Scroll the list) One can scroll the list if there are many notes in the list
+
+Add Screen : It displays empty title, note content place where user will be hinted accordingly. User can enter content, save it. If user wants to discard while entering content, can cancel it.
+
+1. Title : Enter the title for the note
+2. Note: Enter the note content
+3. Cancel : press this to discard this note
+4. Save : press this to save this note
+
+View Screen : On selecting the note item present in the list of Main List screen, it will launch view screen, shows the title, note content. If user feels to edit, an option is provided, can close the view by pressing cancel
+
+1. Title : Displays the title of the note (non editable)
+2. Note: Displays the content of the note (non editable)
+3. Cancel : press this to close the view
+4. Edit : press this to enter into edit view
+5. Delete : (Press Menu or Action Bar ) Deletes this note
+
+Edit Screen : One can edit title, content of the present note, save it by pressing Save. If user doesn't feel to save his changes, one can press cancel to discard the changes
+
+1. Title : Can modify the title of the note (editable)
+2. Note: Can modify the content of the note ( editable)
+3. Cancel : Press this to discard the changes
+4. Save : Press this to save the changes to this note
+
+This application is tested on Samsung Galaxy S, S2. Supports english language in this version.

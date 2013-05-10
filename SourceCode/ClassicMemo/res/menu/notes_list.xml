@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/miAddNote" android:title="@string/addNote" android:showAsAction="always|withText"></item>
+
+</menu>
